@@ -29,7 +29,7 @@ Hi, I'm Riya! I'm passionate about coding, development, languages, and continuou
 ### 📫 How to reach me
 - **Email**: riyasood623@gmail.com
 - **LinkedIn**: [RiyaSood](https://www.linkedin.com/in/riya-sood-8b91a1324/)
-- **GitHub**: [RiyaSood23](https://github.com/RiyaSood23)## Hi there 👋
+- **GitHub**: [RiyaSood23](https://github.com/RiyaSood23)
 
 
 
