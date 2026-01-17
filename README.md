@@ -2,29 +2,26 @@
 
 **👩‍💻 Software Developer | 🌐 Open Source Enthusiast | 💡 Lifelong Learner**
 
-Hi, I'm Riya! I'm passionate about coding, development, languages, and continuous learning. I love exploring new technologies and applying them to solve real-world problems.
+Hi, I'm Riya! I'm passionate about coding, development, languages and continuous learning. I love exploring new technologies and applying them to solve real-world problems.
 
 ### 🌟 Skills
-- **Languages**: C, Python, JavaScript(basics), C++(basics)
+- **Languages**: C, Python, JavaScript(basics), C++(basics), Java
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools**: Git
 
 ### 📚 Currently Learning
 - Web Development 
 - JavaScript
+- Java, C, C++, Python
 
-### 🔍 Brief Overview of my progress
-- 🔭 I’m currently working on ... Exploring domains that I fit in
-- 🌱 I’m currently learning ... Web Development , C and C++
-- 👯 I’m looking to collaborate on ... Basic projects 
-- 🤔 I’m looking for help with ... How to proceed in this journey.
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I like to write and interact with people.
 
 ### 🏆 Achievements
-- Participated in a few hackathons to get exposure.
-- Content Writer for OSC
-- Decent speaker 
+- Operations Lead at Open Source Chandigarh
+- Former Content Team member at OSC
+- Participated in hackathons.
+- Reader, writer and speaker.
+
+ ![Contribution Snake](https://raw.githubusercontent.com/RiyaSood23/RiyaSood23/output/github-contribution-grid-snake.svg)
 
 ### 📫 How to reach me
 - **Email**: riyasood623@gmail.com
