@@ -21,7 +21,7 @@ Hi, I'm Riya! I'm passionate about coding, development, languages and continuous
 - Participated in hackathons.
 - Reader, writer and speaker.
 
- ![Contribution Snake](https://raw.githubusercontent.com/RiyaSood23/RiyaSood23/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/RiyaSood23/RiyaSood23/output/github-snake.svg)
 
 ### 📫 How to reach me
 - **Email**: riyasood623@gmail.com
