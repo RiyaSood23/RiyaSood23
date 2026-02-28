@@ -1,36 +1,29 @@
-<h1 align="center">Hi 👋 I'm Riya Sood</h1>
-<h3 align="center">Computer Science Student | Backend & Problem Solving</h3>
+# Riya Sood
 
----
+**👩‍💻 Software Developer | 🌐 Open Source Enthusiast | 💡 Lifelong Learner**
 
-## 🛠 Tech Stack (Auto Generated from Repositories)
+Hi, I'm Riya! I'm passionate about coding, development, languages and continuous learning. I love exploring new technologies and applying them to solve real-world problems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaSood23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🌟 Skills
+- **Languages**: C, Python, JavaScript(basics), C++(basics), Java
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools**: Git
 
----
-
-## 📊 GitHub Commit Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiyaSood23&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiyaSood23&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-## 📈 Contribution Details (Auto Generated)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiyaSood23&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiyaSood23&theme=tokyonight" />
-</p>
-
----
+### 📚 Currently Learning
+- Web Development 
+- JavaScript
+- Java, C, C++, Python
 
 
-## 📫 Connect With Me
+### 🏆 Achievements
+- Operations Lead at Open Source Chandigarh
+- Former Content Team member at OSC
+- Participated in hackathons.
+- Reader, writer and speaker.
 
-- 📧 riyasood623@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/riya-sood-8b91a1324/)
+
+### 📫 How to reach me
+- **Email**: riyasood623@gmail.com
+- **LinkedIn**: [RiyaSood](https://www.linkedin.com/in/riya-sood-8b91a1324/)
+- **GitHub**: [RiyaSood23](https://github.com/RiyaSood23)
+- **Twitter**: [RiyaSood23](https://x.com/RiyaSood_23)
