@@ -5,7 +5,7 @@
 Hi, I'm Riya! I'm passionate about coding, development, languages and continuous learning. I love exploring new technologies and applying them to solve real-world problems.
 
 ### 🌟 Skills
-- **Languages**: C, Python, JavaScript(basics), C++(basics), Java
+- **Languages**: Java, C++, C, Python
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools**: Git
 
